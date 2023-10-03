@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @cola-tn
+- 👀 I’m interested in Computer Science and IT
+- 🌱 I’m currently learning Python and SQL
+- 📫 How to reach me : discord - @coulton
+
 <!--
 **cola-tn/cola-tn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
